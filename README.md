@@ -63,3 +63,15 @@
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
 
+<br/>
+
+## Coding Activity
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joycegodinho&show_icons=true&theme=dracula" alt="joycegodinho's github stats" />
+</p>
+
+<br/>
+
