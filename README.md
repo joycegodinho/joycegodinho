@@ -14,7 +14,7 @@
 
 - 👩🏻‍🚀 I'm actually graduate in Mechanical Engineering, but i also did Political Science and International Relations before that;
 
-- 🌱 I’m currently learning React and deepening scientific programming in Python of Vibrational Systems; 
+- 🌱 I’m currently developing my skills in React and React Native and deepening scientific programming in Python on Vibrational Systems; 
 
 - 🏆 My favorite challenge is Leetcode 30 days in Python, Javascript or Java;
 
